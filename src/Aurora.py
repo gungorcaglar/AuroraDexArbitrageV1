@@ -1,3 +1,6 @@
+"""
+pip3 install -r requirements.txt
+"""
 import os
 import json
 from web3 import Web3
